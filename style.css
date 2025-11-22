@@ -1,5 +1,4 @@
-main-heading {
-    color: red;
-    font-weight: bold;
-    font-size: 18px;
+.main-heading {
+  color: blue;
+  font-size: 2rem;
 }
