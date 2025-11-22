@@ -1,4 +1,10 @@
 .main-heading {
   color: blue;
   font-size: 2rem;
+  text-shadow: 2px 0px red;
+}
+
+.main-heading:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
