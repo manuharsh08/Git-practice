@@ -2,9 +2,16 @@
   color: blue;
   font-size: 2rem;
   text-shadow: 2px 0px red;
+  text-align: center;
 }
 
 .main-heading:hover {
     text-decoration: underline;
     cursor: pointer;
+}
+
+.text {
+    color: saddlebrown;
+    text-align: center;
+    font-size: 20px;
 }
